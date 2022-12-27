@@ -1,0 +1,149 @@
+@import "variables";
+// Custom v-slect
+
+.style-chooser .vs__search::placeholder,
+.style-chooser .vs__dropdown-toggle,
+.style-chooser .vs__dropdown-menu {
+  background: $color-white;
+  font-weight: 400;
+  font-size: 16px;
+  border: 1px solid $color-gray-lighter;
+  width: 292px;
+}
+.style-chooser .vs__dropdown-toggle {
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+.style-chooser .vs__dropdown-menu {
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px rgba(71, 79, 98, 0.1);
+}
+.style-chooser .vs__dropdown-option {
+  height: 44px;
+  display: flex;
+  align-items: center;
+}
+.style-chooser .vs__clear,
+.style-chooser .vs__open-indicator {
+  fill: $color-gray;
+}
+// Custom input 
+input {
+  height: 48px;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 12px 16px;
+  background: $color-white;
+  border: 1px solid $color-gray-lighter;
+  border-radius: 8px;
+  box-shadow: none !important;
+  width: 292px;
+}
+textarea {
+  background: $color-white;
+  border: 1px solid $color-gray-lighter;
+  border-radius: 8px;
+  box-shadow: none !important;
+  width: 292px;
+}
+
+a {
+	text-decoration: none;
+}
+.img-fluid {
+  height:   revert-layer !important;
+}
+.mt-2-5 {
+  margin-top: 12px;
+}
+.mb-2-5 {
+  margin-bottom: 12px;
+}
+.ml-2-5 {
+  margin-left: 12px;
+}
+.mr-2-5 {
+  margin-right: 12px;
+}
+.pt-2-5 {
+  padding-top: 12px;
+}
+.pb-2-5 {
+  padding-bottom: 12px;
+}
+.pl-2-5 {
+  padding-left: 12px;
+}
+.pr-2-5 {
+  padding-right: 12px;
+}
+.pt-80 {
+  padding-top: 80px;
+}
+.py-80 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.data-label {
+  color: $color-blue;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+.btn-custom {
+  border-radius: 80px;
+  border: 1px solid $bg-blue;
+  height: 40px;
+  min-width: fit-content;
+  padding: 0 24px;
+  transition: 0.3 all ease;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 150%;
+}
+.btn-blue {
+  background-color: $bg-blue;
+  color: $color-white;
+  transition: 0.3s ease-out;
+  a {
+    color: $color-white;
+    transition: 0.3s ease-out;
+  }
+  &:hover {
+    background-color: $color-white;
+    color: $bg-blue;
+    a {
+      color: $bg-blue;
+    }
+  }
+}
+.btn-white {
+  background-color: $color-white;
+  color: $bg-blue;
+  transition: 0.3s ease-out;
+  a {
+    color: $bg-blue;
+  }
+  &:hover {
+    background-color: $bg-blue;
+    color: $color-white;
+    a {
+      color: $color-white;
+    }
+  }
+}
+.title {
+  color: $color-black;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+}
+.desc {
+  color: $color-gray;
+  font-weight: 400;
+  font-size: 18px;
+}

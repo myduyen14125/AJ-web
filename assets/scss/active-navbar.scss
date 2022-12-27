@@ -1,0 +1,33 @@
+@import "variables";
+.white-nav {
+  .logo, nav ul li a, .right-nav, .switch-wrapper {
+    color: $color-black !important;
+  }
+  nav ul li a:hover {
+    border-bottom: 3px solid $color-black !important;
+  }
+}
+.white-nav {
+  a.nuxt-link-exact-active {
+    font-weight: 400 !important;
+    color: $color-blue !important;
+  }
+  a.nuxt-link-exact-active:hover {
+    border-bottom: 3px solid $color-blue !important;
+  }
+  // Cusotm active for btn include a tag 
+  .btn-blue a.nuxt-link-exact-active {
+    color: $color-white !important;
+    border: none !important;
+    font-weight: 600 !important;
+  }
+  .btn-blue:hover a.nuxt-link-exact-active {
+    background-color: $color-white;
+    color: $bg-blue !important;
+  }
+  .btn-blue a.nuxt-link-exact-active:hover {
+    background-color: transparent !important;
+    color: $bg-blue !important;
+    border: none !important;
+  }
+}

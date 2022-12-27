@@ -1,0 +1,65 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_00d34bb5"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_412c5d70"
+  },
+  {
+    "name": "index___ja",
+    "path": "/ja",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_14822512"
+  },
+  {
+    "name": "index___vi",
+    "path": "/vi",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_14822512"
+  },
+  {
+    "name": "about___ja",
+    "path": "/ja/about",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_00d34bb5"
+  },
+  {
+    "name": "contact___ja",
+    "path": "/ja/contact",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_412c5d70"
+  },
+  {
+    "name": "about___vi",
+    "path": "/vi/about",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_00d34bb5"
+  },
+  {
+    "name": "contact___vi",
+    "path": "/vi/contact",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_412c5d70"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/home/yuu/Documents/Git/Project/AJ-web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_14822512"
+  }
+]

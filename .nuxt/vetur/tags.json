@@ -1,0 +1,44 @@
+{
+  "AboutActivities": {
+    "description": "Auto imported from components/about/Activities.vue"
+  },
+  "AboutIntro": {
+    "description": "Auto imported from components/about/Intro.vue"
+  },
+  "AboutSitemap": {
+    "description": "Auto imported from components/about/Sitemap.vue"
+  },
+  "AboutWorking": {
+    "description": "Auto imported from components/about/Working.vue"
+  },
+  "CommonFooter": {
+    "description": "Auto imported from components/common/Footer.vue"
+  },
+  "CommonTopNavbar": {
+    "description": "Auto imported from components/common/TopNavbar.vue"
+  },
+  "HomeAbout": {
+    "description": "Auto imported from components/home/About.vue"
+  },
+  "HomeBanner": {
+    "description": "Auto imported from components/home/Banner.vue"
+  },
+  "HomeNews": {
+    "description": "Auto imported from components/home/News.vue"
+  },
+  "HomeProduct": {
+    "description": "Auto imported from components/home/Product.vue"
+  },
+  "HomeRecruitment": {
+    "description": "Auto imported from components/home/Recruitment.vue"
+  },
+  "HomeService": {
+    "description": "Auto imported from components/home/Service.vue"
+  },
+  "ContactAbout": {
+    "description": "Auto imported from components/contact/About.vue"
+  },
+  "ContactFormContact": {
+    "description": "Auto imported from components/contact/FormContact.vue"
+  }
+}
